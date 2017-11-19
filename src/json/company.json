@@ -1,0 +1,104 @@
+{
+  "user":{
+    "team_name":"ABC Group",
+    "name":"Kevin",
+    "deignation":"Founder",
+    "direct_reportees":1,
+    "team_size":11,
+    "reportees":[
+      {
+        "team_name":"ABC Online",
+        "name":"Damein Hubert",
+        "deignation":"CEO",
+        "direct_reportees":6,
+        "team_size":10,
+        "reportees":[
+          {
+            "team_name":"Core Management",
+            "name":"Hazel Turner",
+            "deignation":"CXO",
+            "direct_reportees":1,
+            "team_size":2,
+            "reportees":[
+              {
+                "team_name":"Core Management",
+                "name":"Anita Hemmin",
+                "deignation":"CPO",
+                "direct_reportees":1,
+                "team_size":1,
+                "reportees":[
+                  {
+                    "team_name":"Apps",
+                    "name":"Raja Babu",
+                    "deignation":"Engineer",
+                    "direct_reportees":0,
+                    "team_size":0,
+                    "reportees":[]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "team_name":"Core Management",
+            "name":"Elia dummy",
+            "deignation":"CTO",
+            "direct_reportees":0,
+            "team_size":0,
+            "reportees":[]
+          },
+          {
+            "team_name":"Core Management",
+            "name":"Anita Hemmin",
+            "deignation":"CPO",
+            "direct_reportees":1,
+            "team_size":2,
+            "reportees":[
+              {
+                "team_name":"Core Management",
+                "name":"Anita Hemmin",
+                "deignation":"CPO",
+                "direct_reportees":1,
+                "team_size":1,
+                "reportees":[
+                  {
+                    "team_name":"LMS",
+                    "name":"Sita Ram",
+                    "deignation":"Engineer",
+                    "direct_reportees":0,
+                    "team_size":0,
+                    "reportees":[]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "team_name":"Core Management",
+            "name":"Will Smith",
+            "deignation":"CFO",
+            "direct_reportees":0,
+            "team_size":0,
+            "reportees":[]
+          },
+          {
+            "team_name":"Core Management",
+            "name":"John Marvik",
+            "deignation":"VP KYC",
+            "direct_reportees":0,
+            "team_size":0,
+            "reportees":[]
+          },
+          {
+            "team_name":"Core Management",
+            "name":"David Rummy",
+            "deignation":"VP Marketting",
+            "direct_reportees":0,
+            "team_size":0,
+            "reportees":[]
+          }
+        ]
+      }
+    ]
+  }
+}
